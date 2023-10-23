@@ -38,8 +38,12 @@ Before you begin, make sure you have the following prerequisites installed:
    git clone https://github.com/your-username/license-plate-detection.git
    cd license-plate-detection
 
-### Video Output
-   
+### Vehicle License Plate Detection
+   https://github.com/Ammar-Abdelhady-ai/Licence-Plate-Detection-and-Recognition-using-YOLO-V8/assets/76500493/2eea17d5-1ddd-482c-857a-cd302dbecdf1
 
-https://github.com/Ammar-Abdelhady-ai/Licence-Plate-Detection-and-Recognition-using-YOLO-V8/assets/76500493/2eea17d5-1ddd-482c-857a-cd302dbecdf1
+### Vehicle Detection
+   https://github.com/Ammar-Abdelhady-ai/Licence-Plate-Detection-and-Recognition-using-YOLO-V8/assets/76500493/3917e4da-916c-428f-a457-aff303144035
+
+
+
 
