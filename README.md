@@ -1,5 +1,3 @@
-# License Plate Detection and Recognition using YOLOv8
-
 ## Overview
 This project aims to detect license plates in images using the YOLOv8 model and extract text from the detected license plates. It includes the complete workflow from data preparation and model training to model deployment using OpenVINO. The main components of this project include:
 
