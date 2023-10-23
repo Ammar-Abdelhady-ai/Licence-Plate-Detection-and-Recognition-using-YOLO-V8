@@ -42,14 +42,3 @@ Before you begin, make sure you have the following prerequisites installed:
 
 ### Vehicle License Plate Detection
    https://github.com/Ammar-Abdelhady-ai/Licence-Plate-Detection-and-Recognition-using-YOLO-V8/assets/76500493/2eea17d5-1ddd-482c-857a-cd302dbecdf1
-
-### Vehicle Detection
-   https://github.com/Ammar-Abdelhady-ai/Licence-Plate-Detection-and-Recognition-using-YOLO-V8/assets/76500493/8bc50609-6e77-4757-b6bc-e23a68319e69
-
-
-
-
-
-
-
-
