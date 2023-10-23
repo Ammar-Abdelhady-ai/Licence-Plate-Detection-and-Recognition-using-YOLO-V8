@@ -1,5 +1,3 @@
-
-https://github.com/Ammar-Abdelhady-ai/Licence-Plate-Detection-and-Recognition-using-YOLO-V8/assets/76500493/cab62d0c-f1d6-4086-bcad-859fbe1e4c13
 # License Plate Detection and Recognition using YOLOv8
 
 ## Overview
