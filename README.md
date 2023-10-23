@@ -37,3 +37,9 @@ Before you begin, make sure you have the following prerequisites installed:
    ```bash
    git clone https://github.com/your-username/license-plate-detection.git
    cd license-plate-detection
+
+### Video Output
+   
+
+https://github.com/Ammar-Abdelhady-ai/Licence-Plate-Detection-and-Recognition-using-YOLO-V8/assets/76500493/2eea17d5-1ddd-482c-857a-cd302dbecdf1
+
